@@ -18,7 +18,7 @@ div img {
     <br />
     Description would be:
     <br />
-    <input type="text" name="file1_content1" value="">
+    <input type="text" name="file1_content1" value="<?php ?>">
     <br />
     <input type="text" name="file1_content2" value="">
     <br />
