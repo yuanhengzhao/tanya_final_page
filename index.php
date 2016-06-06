@@ -184,7 +184,7 @@
 	  <div class="col-sm-12 no-padding">
 	    <div id="change"></div>
 	    <script>
- 		$('#change').load('changeable_content.html');
+ 		$('#change').load('changeable_content.php');
  	    </script>
 	  </div>	
 	</div><!--End Row-->

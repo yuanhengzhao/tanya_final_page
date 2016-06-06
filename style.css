@@ -1,0 +1,201 @@
+#div0 {
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+	position: relative;
+}
+
+
+
+#sign {
+	min-width: 15cm;
+	position: absolute;
+	top: 5cm;
+	width: 100%;
+	background-color: #CFCFCF;
+	display: block;
+}
+#signin {
+	margin: 1cm auto;
+	width: 10cm;
+}
+#signin form {
+	font-size: 25px;
+	color: #4d4d4d;
+}
+#signin-username, #signin-password {
+	width: 100%;
+	padding: 8px 20px;
+	margin: 8px 0;
+	font-size: 20px;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+#signin-signin {
+	width: 100%;
+	padding: 10px 20px;
+	margin: 8px 0;
+	background-color: #C6205E;
+	font-size: 25px;
+	color: white;
+	border-radius: 4px;
+	border: none;
+}
+#signin-signin:hover {
+	background-color: #97033f;
+}
+#signin-signin:focus {
+	outline: 0;
+}
+#signin-signup {
+	text-align: center;
+	width: 100%;
+	padding: 10px 0px;
+	margin: 8px 0;
+	background-color: #C6205E;
+	font-size: 25px;
+	color: white;
+	border-radius: 4px;
+	text-decoration: none;
+	display: inline-block;
+}
+#signin-signup:hover {
+	background-color: #97033f;
+}
+
+
+#hello {
+	margin-top: 20px;
+	min-width: 35cm;
+	text-align: center;
+	font-size: 40px;
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+	color: #999999;
+}
+
+
+
+#img {
+	width: 100%;
+}
+#images {
+	width: 35cm;
+	margin: 1cm auto 0 auto;
+}
+.image {
+	display: inline-block;
+	padding: 10px 1px;
+}
+.image img {
+	width: 11.5cm;
+	padding: 0 0 10px 0;
+}
+.image p {
+	margin: 3px;
+	padding: 0;
+	font-size: 20px;
+	height: 30px;
+}
+.image input {
+	width: 9cm;
+	padding: 2px 8px;
+	font-size: 20px;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	float: right;
+}
+.image input[type=submit]:hover {
+	background-color: #999999;
+}
+
+
+#signout {
+	text-align: center;
+	margin-top: 1cm;
+}
+#signout a {
+	min-width: 30cm;
+	padding: 7px 2.5cm 7px 2.5cm;
+	font-size: 25px;
+	background-color: #C6205E;
+	color: #ffffff;
+	border-radius: 4px;
+	text-decoration: none;
+	display: inline-block;
+}
+#signout a:hover {
+	background-color: #97033f;
+}
+
+
+
+input:focus {
+	outline: 0;
+}
+
+
+
+
+#signupdiv0 {
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+	position: relative;
+}
+
+
+
+#signupsign {
+	min-width: 15cm;
+	position: absolute;
+	top: 5cm;
+	width: 100%;
+	background-color: #C6205E;
+	display: block;
+}
+#signup {
+	margin: 1cm auto;
+	width: 10cm;
+}
+#signup form {
+	font-size: 25px;
+	color: #C6205E;
+}
+#signup-username, #signup-password {
+	width: 100%;
+	padding: 8px 20px;
+	margin: 8px 0;
+	font-size: 20px;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+#signup-signin {
+	width: 100%;
+	padding: 10px 20px;
+	margin: 8px 0;
+	background-color: #CFCFCF;
+	font-size: 25px;
+	color: #333333;
+	border-radius: 4px;
+	border: none;
+}
+#signup-signin:hover {
+	background-color: #999999;
+}
+#signup-signin:focus {
+	outline: 0;
+}
+#signup-signup {
+	text-align: center;
+	width: 100%;
+	padding: 10px 0px;
+	margin: 8px 0;
+	background-color: #CFCFCF;
+	font-size: 25px;
+	color: #333333;
+	border-radius: 4px;
+	text-decoration: none;
+	display: inline-block;
+}
+#signup-signup:hover {
+	background-color: #999999;
+}
