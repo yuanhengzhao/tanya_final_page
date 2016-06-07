@@ -33,3 +33,5 @@ password VARCHAR(30) NOT NULL
 )
 
 "
+
+Open editImage.php to access the image uploader.
