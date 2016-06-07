@@ -6,10 +6,11 @@ For description, I use 3 html files to store the desctription contents since I a
 
 Update
 ======================================================================
-This is the version with mysql. Database's name is description_db. There are two tables
-in it: Descriptions and Users. Descriptions table is used to store image description and url. Users table is used to store username and password.
+This is a version with mysql database. Database's name is description_db. There are two tables
+in it: Descriptions and Users. Descriptions table is used to store image description and url link. 
+Users table is used to store username and password.
 
-How to implement it
+How to implement the database
 ======================================================================
 Before deployed all the php code, Please run following mysql statement.
 "
