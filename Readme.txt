@@ -34,4 +34,4 @@ password VARCHAR(30) NOT NULL
 
 "
 
-Open editImage.php to access the image uploader.
+Open editImage.php to access the image uploader. But please initialize the database first. 
