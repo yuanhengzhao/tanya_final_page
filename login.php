@@ -12,7 +12,7 @@ if(isset($_POST['btn-login']))
  $userpassword = mysql_real_escape_string($_POST['userpassword']);
  $res=mysql_query("SELECT * FROM Users WHERE username='$username'");
  $row=mysql_fetch_array($res);
- if($row['password']==md5($userpassword))
+ if($row['password']==$userpassword)
  {
   $_SESSION['user'] = $row['id'];
   header("Location: editImage.php");
